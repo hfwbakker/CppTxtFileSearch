@@ -2,18 +2,6 @@
 #include <fstream>
 #include <string>
 
-/*
-	1. read data from input file (all names + age) CHECK
-	2. read every line in to a string CHECK
-    3. put all strings into a vector or an array CHECK
-
-	4. make sure they are all sorted -> use provided function to make all lower case
-	5. ask user in put to search for a name and return age (binary search)
-	6. make sure input and output is not case senstive
-
-
-*/
-
 using namespace std;
 
 int main(){
